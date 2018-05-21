@@ -15,7 +15,7 @@ document.body.addEventListner('keydown', function(event){
     }
   } else {
     i = 0;
-    
+
   }
 }
 };
