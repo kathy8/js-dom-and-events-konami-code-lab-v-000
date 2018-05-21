@@ -11,7 +11,7 @@ document.body.addEventListener('keydown', function(e) {
     index++;
 
     if (index === code.length) {
-      alert("Hurray!");
+      alert('Hurray!');
 
       index = 0;
     }
@@ -19,4 +19,5 @@ document.body.addEventListener('keydown', function(e) {
     index = 0;
 
   }
-};
+});
+}
